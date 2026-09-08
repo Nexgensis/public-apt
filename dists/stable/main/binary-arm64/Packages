@@ -1,0 +1,19 @@
+Package: nexgensis-cli
+Version: 0.1.6
+Architecture: arm64
+Maintainer: Nexgensis <info@nexgensis.com>
+Installed-Size: 12120
+Recommends: docker.io
+Filename: pool/main/nexgensis-cli_0.1.6_arm64.deb
+Size: 3810726
+MD5sum: ee909c3831af304ae970a8bce88b435e
+SHA1: d968c628f9d4599f34f5cf4b26d8c4efaff9cdc4
+SHA256: 73b16ea824f27fd51a5ea0b76e1dc3cb9d27af4a3665efdea8177aa582878047
+Section: admin
+Priority: optional
+Homepage: https://github.com/Nexgensis/nexgensis-cli
+Description: Nexgensis provisioning & deployment CLI
+ Provisions on-prem Ubuntu hosts and deploys the Nexgensis container stacks
+ (BMR core app, EdgeNexus IoT, monitoring) through a browser or terminal wizard,
+ with a bundled nginx ingress and auto-generated TLS.
+

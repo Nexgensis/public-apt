@@ -1,0 +1,8 @@
+<!doctype html><meta charset=utf-8><title>Nexgensis APT repository</title>
+<h1>Nexgensis APT repository</h1>
+<p>Signed APT repository for <code>nexgensis-cli</code> (version 0.1.6).</p>
+<pre>
+curl -fsSL https://nexgensis.github.io/public-apt/nexgensis.gpg | sudo gpg --dearmor -o /usr/share/keyrings/nexgensis.gpg
+echo "deb [signed-by=/usr/share/keyrings/nexgensis.gpg] https://nexgensis.github.io/public-apt stable main" | sudo tee /etc/apt/sources.list.d/nexgensis.list
+sudo apt update && sudo apt install nexgensis-cli
+</pre>
