@@ -1,0 +1,17 @@
+Origin: Nexgensis
+Label: Nexgensis
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Date: Sat, 19 Sep 2026 17:29:38 UTC
+MD5Sum:
+ 3b8fc562b243ec4c1e12dc1c7835c5ac 724 main/binary-amd64/Packages
+ 367fab5093e314dd6124b9d4818e79ca 511 main/binary-amd64/Packages.gz
+ 6d362e3eef0ddb73c4d1bb5a6eb947af 724 main/binary-arm64/Packages
+ 1f84dbbee9c8df68be2b54628109d719 513 main/binary-arm64/Packages.gz
+SHA256:
+ ff3d0f68049ae63f0f617284f4de24fb33c5d8c224d8ba343dae6419da9a4c70 724 main/binary-amd64/Packages
+ 9e1714d3ea9277a18f96ca165f7a911125c61368fb5cecf5bfbac547c9e62f75 511 main/binary-amd64/Packages.gz
+ a660584b40e2c8bb6423438475708b38b6cc6734328fc575ee0fd58513763e9d 724 main/binary-arm64/Packages
+ 85dc71f03d7bd6ffc0f3ad226e76a9fb5e75b403ab739141c242f7eb462af566 513 main/binary-arm64/Packages.gz

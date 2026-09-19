@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Nexgensis
+Label: Nexgensis
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Date: Sat, 19 Sep 2026 17:29:38 UTC
+MD5Sum:
+ 3b8fc562b243ec4c1e12dc1c7835c5ac 724 main/binary-amd64/Packages
+ 367fab5093e314dd6124b9d4818e79ca 511 main/binary-amd64/Packages.gz
+ 6d362e3eef0ddb73c4d1bb5a6eb947af 724 main/binary-arm64/Packages
+ 1f84dbbee9c8df68be2b54628109d719 513 main/binary-arm64/Packages.gz
+SHA256:
+ ff3d0f68049ae63f0f617284f4de24fb33c5d8c224d8ba343dae6419da9a4c70 724 main/binary-amd64/Packages
+ 9e1714d3ea9277a18f96ca165f7a911125c61368fb5cecf5bfbac547c9e62f75 511 main/binary-amd64/Packages.gz
+ a660584b40e2c8bb6423438475708b38b6cc6734328fc575ee0fd58513763e9d 724 main/binary-arm64/Packages
+ 85dc71f03d7bd6ffc0f3ad226e76a9fb5e75b403ab739141c242f7eb462af566 513 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEEdRPByZ78d3OAGkzzj6L2bllXicFAmquxoIACgkQzj6L2bll
+XidcqBAAn6ID1uQsR/deGZrqLi+1Nsp90JLNqisULGnCHR9xzaRTtcNZm5Xer9il
+Bs/SEiXESHendKU9aWoVrkSpVPUTCuHuni1TGmrdJzt5hazMBqgxmLXyfmyavVJ7
+yOeQEFK8UhFjWOphts8vyzg7m4Xq9f8OriKk1n5Gzhm8/pbah63g/AscSu2QYs3d
+13Esx0MwFMXm+pzZrSKMZgCoq2zkcx/U5he+Y285JM406NTNsQgx3mL2iBNk3OMy
+8wd7SBwnKHJ1RWS55h5X6kSArcVisNO4E5o8vHS/4+1JtDXZBNLjDRL41K8SsTwi
+1pefZlGqziZ0OGPP9knxuA/srwru2Stw7N6xQ8B5XaGMI03XAaUQot1+uYia+1R7
+uF7cUvtN3yJry8Mm5N9OPpSgk2ABhJYWYQa/uKvXPJTE2Mg9jIbsoLGHIApBkIli
+lKsDifA0IqtyWQ3wk2v3XCNVkokBtQSUZXiYMjaoFseBGXcbdV3jrr/slnyBYq/m
+/uyEV7VPbQmDJAffOj0C4sr68QUQJZEc7gel4ponxTnTQ4/bJenHJOdLXK30kzpX
+8FZVKlBBYOeQqNvPXnfFKU0NldtPvKx4Xcd60hBnNyUsBvc0KQ9GugxZaxbK5QUl
+OedbM8opOwFvU0WPEZYXFf6LgMcwosJYR4Necqz8J2o1W96Y8qo=
+=xAWH
+-----END PGP SIGNATURE-----
